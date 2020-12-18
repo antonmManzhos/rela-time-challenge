@@ -13,6 +13,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
             <groupId>rela-time-challenge</groupId>
             <artifactId>rela-time-challenge-data</artifactId>
             <version>0.0.1-SNAPSHOT</version>
